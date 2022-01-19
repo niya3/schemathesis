@@ -4,6 +4,10 @@ Changelog
 `Unreleased`_ - TBD
 -------------------
 
+**Changed**
+
+- Relax dependencies on ``pyyaml`` and ``click``.
+
 `3.12.3`_ - 2022-01-13
 ----------------------
 
